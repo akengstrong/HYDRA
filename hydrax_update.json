@@ -3,6 +3,6 @@
   "min_app_version": "1.0.0",
   "file_size": 1152816,
   "checksum": "0654B089",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRA_PROJECT_1_UPDATE_NO_SATPAM.ino.esp32.hxf",
-  "notes": "bug fix suzuki restore scu"
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1_06.hxf",
+  "notes": "bug fix suzuki restore scu\nbug update"
 }
