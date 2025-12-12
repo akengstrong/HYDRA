@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.08",
+  "latest_version": "1.09",
   "min_app_version": "1.0.0",
-  "file_size": 1153904,
-  "checksum": "0656C206",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1_08.hxf",
-  "notes": "Add fitur update from USB"
+  "file_size": 1154240,
+  "checksum": "06576933",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1_09.hxf",
+  "notes": "BUG FIX USB RECOVERY\nBUG FIX UPDATE ONLINE"
 }
 
 
