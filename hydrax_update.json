@@ -1,9 +1,10 @@
 {
-  "latest_version": "1.07",
+  "latest_version": "1.08",
   "min_app_version": "1.0.0",
-  "file_size": 1152816,
-  "checksum": "0654AEB8",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1_07.hxf",
-  "notes": "bug fix baca key k97\nadd yamaha old write ecm"
+  "file_size": 1153904,
+  "checksum": "0656C206",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1_08.hxf",
+  "notes": "Add fitur update from USB"
 }
+
 
