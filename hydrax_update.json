@@ -4,10 +4,13 @@
   "changelog": "Perbaikan sistem lisensi & bug kecil.",
   "files": [
     {
-      "version": "1.04",
-      "filename": "HYDRAX_1_04.hxf",
-      "download_url": "https://github.com/akengstrong/HYDRA/raw/refs/heads/main/HYDRAX_1_04.hxf",
-      "size_bytes": 1150000
-    }
+  "latest_version": "1.06",
+  "min_app_version": "1.0.0",
+  "file_size": 1152816,
+  "checksum": "0654B089",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRA_PROJECT_1_UPDATE_NO_SATPAM.ino.esp32.hxf",
+  "notes": "bug fix suzuki restore scu"
+}
   ]
+
 }
