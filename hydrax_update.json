@@ -1,10 +1,8 @@
 {
-  "latest_version": "1.09",
+  "latest_version": "1.10",
   "min_app_version": "1.0.0",
-  "file_size": 1154240,
-  "checksum": "06576933",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1_09.hxf",
-  "notes": "BUG FIX USB RECOVERY\nBUG FIX UPDATE ONLINE"
+  "file_size": 1157600,
+  "checksum": "065B9C28",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1_10.hxf",
+  "notes": "UPDATE RENEW ECU FREEGO,\nFAZZIO, FILLANO.\nUPDATE APK KE MINIMAL V3.9"
 }
-
-
