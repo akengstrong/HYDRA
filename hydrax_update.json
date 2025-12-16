@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.10",
+  "latest_version": "1.11",
   "min_app_version": "1.0.0",
-  "file_size": 1157600,
-  "checksum": "065B9C28",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1_10.hxf",
-  "notes": "UPDATE RENEW ECU FREEGO,\nFAZZIO, FILLANO.\nUPDATE APK KE MINIMAL V3.9"
+  "file_size": 1167024,
+  "checksum": "06674934",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.11.hxf",
+  "notes": "Update Link Led Indicator\nUpdate bugfix ceksum yamaha"
 }
+
