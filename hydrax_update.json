@@ -1,10 +1,11 @@
 {
-  "latest_version": "1.12",
+  "latest_version": "1.13",
   "min_app_version": "1.0.0",
   "file_size": 1167024,
-  "checksum": "06674934",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.11.hxf",
-  "notes": "Update Link Led Indicator\nUpdate bugfix ceksum yamaha"
+  "checksum": "0667454A",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.13.hxf",
+  "notes": "Update show progress bar\nfor baca scu nmax turbo\ndan scu honda"
 }
+
 
 
