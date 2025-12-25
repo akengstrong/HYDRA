@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.14",
+  "latest_version": "1.15",
   "min_app_version": "1.0.0",
   "file_size": 1167024,
-  "checksum": "06674296",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.14.hxf",
-  "notes": "Update bugfix Baca key scu\nk2f nd1 original"
+  "checksum": "06675574",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.15.hxf",
+  "notes": "UPDATE INPUT KEY HONDA\nRESTORE METHODE"
 }
+
