@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.15",
+  "latest_version": "1.16",
   "min_app_version": "1.0.0",
-  "file_size": 1167024,
-  "checksum": "06675574",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.15.hxf",
-  "notes": "UPDATE INPUT KEY HONDA\nRESTORE METHODE"
+  "file_size": 1171440,
+  "checksum": "066D315C",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.16.hxf",
+  "notes": "UPDATE FEATURE RESTORE\nDAN WRITE ECMID K97"
 }
 
