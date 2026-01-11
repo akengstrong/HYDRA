@@ -1,10 +1,11 @@
 {
-  "latest_version": "1.17",
+  "latest_version": "1.18",
   "min_app_version": "1.0.0",
-  "file_size": 1192400,
-  "checksum": "06855084",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.17.hxf",
-  "notes": "UPDATE READ RENEW \nHONDA KLINE"
+  "file_size": 1204256,
+  "checksum": "0693AFE4",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1_18.hxf",
+  "notes": "UPDATE KLINE READ RENEW\nUPDATEHONDA SCAN"
 }
+
 
 
