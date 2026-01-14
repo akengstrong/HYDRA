@@ -1,11 +1,12 @@
 {
-  "latest_version": "1.19",
+  "latest_version": "1.20",
   "min_app_version": "1.0.0",
   "file_size": 1205344,
-  "checksum": "0695C648",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.19.hxf",
-  "notes": ""
+  "checksum": "0695C652",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.20.hxf",
+  "notes": "NEW UPDATE"
 }
+
 
 
 
