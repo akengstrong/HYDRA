@@ -1,11 +1,12 @@
 {
-  "latest_version": "1.21",
+  "latest_version": "1.24",
   "min_app_version": "1.0.0",
-  "file_size": 1205360,
-  "checksum": "0695BFE9",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.21.hxf",
-  "notes": "NEW UPDATE HASIL RENEW"
+  "file_size": 1207520,
+  "checksum": "069A4FFF",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.24.hxf",
+  "notes": "UPDATE FEATURE :\nBaca ECMID FAZZIO,FREEGO,FILLANO\nBugfix Restore K97"
 }
+
 
 
 
