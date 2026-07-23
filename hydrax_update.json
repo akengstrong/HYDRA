@@ -1,12 +1,11 @@
 {
-  "latest_version": "1.31",
+  "latest_version": "1.32",
   "min_app_version": "1.0.0",
-  "file_size": 1231520,
-  "checksum": "06B8A998",
-  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.31.hxf",
-  "notes": "UPDATE SCAN HONDA\nUPDATE SCAN YAMAHA"
+  "file_size": 1244880,
+  "checksum": "06CDA55F",
+  "fw_url": "https://raw.githubusercontent.com/akengstrong/HYDRA/refs/heads/main/HYDRAX_1.32.hxf",
+  "notes": "BUG FIX SCC"
 }
-
 
 
 
